@@ -1,6 +1,6 @@
 # NODE
 Networked Observer of Dynamic Environments
 
-Welcome to the official github page for the Networked Observer of Dynamic Environments (NODE)!
+Welcome to the official GitHub page for the Networked Observer of Dynamic Environments (NODE)!
 
-This is a TEST
+This is a test.
